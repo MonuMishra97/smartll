@@ -105,6 +105,9 @@ Possible future enhancements include:
 - Smart city infrastructure integration
 - Machine learning for predictive analysis
 - Real-vehicle implementation
+  ## Project Demo
+
+[▶️ Watch Project Demo](./project-demo.mp4)
 
 ## Project Report
 
